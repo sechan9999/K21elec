@@ -1,0 +1,5 @@
+{
+  "name": "Jeju Election Data Extractor",
+  "description": "An AI-powered tool to extract, clean, and aggregate vote counts from South Korean election tally sheets using Gemini Vision. It dynamically detects candidate columns and generates a tidy report.",
+  "requestFramePermissions": []
+}
