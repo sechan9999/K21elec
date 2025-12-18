@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Analysis output files
+*_sample.csv
+*_sample.xlsx
+*_result.csv
+*_result.xlsx
+result_*.csv
+result_*.xlsx
+simple_result.csv
+election_analysis.csv
+election_analysis.xlsx
